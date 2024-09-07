@@ -1188,5 +1188,12 @@
     "url": "https://therarbg.to/get-posts/keywords:tt{{IMDB_ID}}",
     "noResultsMatcher": "No data available in table",
     "category": "pub_tracker"
+  },
+  {
+    "id": "nyaa",
+    "title": "Nyaa",
+    "url": "https://nyaa.si/?f=0&c=1_0&q={{IMDB_TITLE}}",
+    "noResultsMatcher": "No results found",
+    "category": "pub_tracker"
   }
 ]
