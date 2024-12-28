@@ -1135,6 +1135,21 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACGUlEQVQ4y33Tz2vTcBgG8Kz+CSLCmP9CfjgPKsh06JSBYyjqCkKZ2ClqnbNDNmZ14MEhDNTLpJu4g8yDKExE5kUdqKcxFKUqCPbSNN/Qua7purRIH59ktqQh9YX3lLyfJN/3iST5KqJmt/Wr2fhZVX91XtO/XdD07zFNX7iiZa5d1TLbpWZ1UjFawqoxeFrNWkRwhh1VdRDBRfZlNpH1OKFhLdPSMNzL4eOK8YAIwhwkgmbIkJYBkVkioTrQo4gYERCBF3l6v4CfnyuYHFgJQkbc4SOK2NqtiMJRRcCLRDsEUIVbP5bKQZ9T4pm0SodkMXiYw0TgRU5pBlIcdCqn/0G0PfBMxqRO2XxxUBZwkJ52gYl4HrFjuU1ENXCu08T0eB6Lz0uI8a28CLfzRuqQza8HZBMOMjdddJ9ob1QxdWsNd0fz+Ph6A/17BJ5NWe61lzOWF/kl7ZPNFBE4yNzMuntTpVzFw0kLydsFLL+3EdlL/N4mMJ+0vNtJO8ACGw7StcvExNgaLvWt1M+kb7fAnaFVzD8qYmC/aFgxw/bOAUYcoIbUPqd7p8CXpYr7VJOHeEJrXLGDMLEJB2hll/xIuCuHWi1/KCMgJzaRNjcLHBytAV7kcbKI1KcKhiO/4c8JY5+oJ5FDIfZsEFJbsS8nT4iEGv6Hf8h1tv0fxCZyg8iWpn8lB3ewb7IX2WkiaYbtLRObYOzb/Pf/BcAPLnFvp7oYAAAAAElFTkSuQmCC",
     "url": "https://bitsearch.to/search?q={{IMDB_TITLE}}",
     "noResultsMatcher": "Found <b>0</b>",
+    "category": "pub_tracker",  
+  {
+    "id": "rarbg",
+    "title": "RARBG",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABp0lEQVQ4y4WTP0jDQBTGI1KEOmcODh3M4lTEKZNL9hslYyGbcJtIcChCwC2LUxARIXOcHDLfKNziFByDgwgBEZHn9y6X2tYUD3695r2X7333Jw4RbQEPnIFLMB9gBia2dgUHP0fgkf4f7+AcjNYFTsFbpRsSUpFIVomAzDRx3o6rQYFSNTSNKgriysxDFJUR+QD7fx1AgF8OgUzREc8Md+cY59hN27mYDQqEsjJkhe7tfjdoykvhOM9Nt5KLQQHBRWsCdd2icxeP04WDaLMAipNMGftlVWM52ExZUhCVlJe6P429DQKlIYwL8kXeEXawqB3z4VNANz/MyAtSmoqMwig3/xmO81Js98mgQAF7Y18a4qQwrXjmZ3cq4SrvHTyAnQEBheKYxl5EseyK27alaZj8xq3w8jKWBCpyPEGOKyiSGRd98aVRuibXjyDQ5bK87EX4JEYLgbyAwDgwiDjlglf7gX3yS47b5Rw3xOmYDX0BJyxwDFTTtKQU30CNDTO35cna5LtPSutFXsMVxjMQji06ANfgDtyCG3Boc7v25t3bHNfkNr/9Azy0EznasaqWAAAAAElFTkSuQmCC",
+    "url": "https://therarbg.to/get-posts/keywords:tt{{IMDB_ID}}",
+    "noResultsMatcher": "No data available in table",
     "category": "pub_tracker"
+  },
+  {
+    "id": "nyaa",
+    "title": "Nyaa",
+    "url": "https://nyaa.si/?f=0&c=1_0&q={{IMDB_TITLE}}",
+    "noResultsMatcher": "No results found",
+    "category": "pub_tracker"
+  }
   }
 ]
