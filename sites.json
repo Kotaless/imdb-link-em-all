@@ -1135,7 +1135,8 @@
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACGUlEQVQ4y33Tz2vTcBgG8Kz+CSLCmP9CfjgPKsh06JSBYyjqCkKZ2ClqnbNDNmZ14MEhDNTLpJu4g8yDKExE5kUdqKcxFKUqCPbSNN/Qua7purRIH59ktqQh9YX3lLyfJN/3iST5KqJmt/Wr2fhZVX91XtO/XdD07zFNX7iiZa5d1TLbpWZ1UjFawqoxeFrNWkRwhh1VdRDBRfZlNpH1OKFhLdPSMNzL4eOK8YAIwhwkgmbIkJYBkVkioTrQo4gYERCBF3l6v4CfnyuYHFgJQkbc4SOK2NqtiMJRRcCLRDsEUIVbP5bKQZ9T4pm0SodkMXiYw0TgRU5pBlIcdCqn/0G0PfBMxqRO2XxxUBZwkJ52gYl4HrFjuU1ENXCu08T0eB6Lz0uI8a28CLfzRuqQza8HZBMOMjdddJ9ob1QxdWsNd0fz+Ph6A/17BJ5NWe61lzOWF/kl7ZPNFBE4yNzMuntTpVzFw0kLydsFLL+3EdlL/N4mMJ+0vNtJO8ACGw7StcvExNgaLvWt1M+kb7fAnaFVzD8qYmC/aFgxw/bOAUYcoIbUPqd7p8CXpYr7VJOHeEJrXLGDMLEJB2hll/xIuCuHWi1/KCMgJzaRNjcLHBytAV7kcbKI1KcKhiO/4c8JY5+oJ5FDIfZsEFJbsS8nT4iEGv6Hf8h1tv0fxCZyg8iWpn8lB3ewb7IX2WkiaYbtLRObYOzb/Pf/BcAPLnFvp7oYAAAAAElFTkSuQmCC",
     "url": "https://bitsearch.to/search?q={{IMDB_TITLE}}",
     "noResultsMatcher": "Found <b>0</b>",
-    "category": "pub_tracker",  
+    "category": "pub_tracker"
+  },  
   {
     "id": "rarbg",
     "title": "RARBG",
@@ -1150,6 +1151,5 @@
     "url": "https://nyaa.si/?f=0&c=1_0&q={{IMDB_TITLE}}",
     "noResultsMatcher": "No results found",
     "category": "pub_tracker"
-  }
   }
 ]
